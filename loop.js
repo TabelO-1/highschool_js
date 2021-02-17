@@ -1,3 +1,3 @@
-for (var gamingHours = 1; gamingHours <= 10; gamingHours++) {
-    console.log("I Have spent",gamingHours, "Hours Gaming");
+for (var readinghours = 1; readinghours <= 10; readinghours++) {
+    console.log("I Have spent",readinghours, "Hours Reading");
   }
